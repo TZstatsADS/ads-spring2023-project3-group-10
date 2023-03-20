@@ -5,9 +5,9 @@
 
 Term: Spring 2023
 
-+ Team ##
++ Team 10
 + Team members
-	+ team member 1
+	+ Yiming Zhu
 	+ team member 2
 	+ team member 3
 	+ team member 4
