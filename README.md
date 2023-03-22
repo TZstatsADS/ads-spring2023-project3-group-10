@@ -8,10 +8,10 @@ Term: Spring 2023
 + Team 10
 + Team members
 	+ Yiming Zhu
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Yunfan Liu
+	+ Tianxiao He
+	+ Ng, Brendan
+	+ Zhang, Xueyi
 
 + Project summary: In this project, we created ...
 	
