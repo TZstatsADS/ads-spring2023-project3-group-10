@@ -20,7 +20,7 @@ Term: Spring 2023
 
 All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Yunfan built model 1, Tianxiao improved it and trained model 2 while Brendan finished the label correction process.Tianxiao also compared the 3 models and made evaluations. Yiming and Xueyi contributed to presentation and documentation. 
+Yunfan built model 1, Tianxiao improved it and trained model 2 while Brendan finished the label correction process.Tianxiao also compared the 3 models and made evaluations. Yiming and Xueyi contributed to proposal written and presentation. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
